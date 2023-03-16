@@ -1,6 +1,6 @@
-# Invariant Dropout
+# FLuID - Federated Learning using Invariant Dropout
 
-This project contains the Invariant Dropout implementation for CIFAR10, FEMNIST, and Shakespeare
+This project contains the FLuID framework implementation for CIFAR10, FEMNIST, and Shakespeare
 Also implements baseline techniques Random and Ordered Dropout
 
 This project is implemented using the [Flower framework v0.18.0](https://github.com/adap/flower). Also uses Flower's [Android example](https://flower.dev/blog/2021-12-15-federated-learning-on-android-devices-with-flower/) as a implementation basis.
